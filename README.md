@@ -1,7 +1,16 @@
 # Jarrod-Mautz-Portfolio
 This is my ongoing Data Science and Quant Portfolio!
 
-# [Project 1: Twitter Sentiment Analysis: Project Overview](https://github.com/jarrod7800/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis/sentiment_models.ipynb)
+# [Project 1: NBA Player Clustering: Project Overview]() 
+- Scraped Stats.NBA.com to aggregate data.
+- Utilize PCA to perfom dimension reduction. 
+- perform Hopkins test to verify clustering tendencies
+- used KMeans++ clustering algorithm to group players together.
+- Analyze clusters to identify play styles/archetypes.
+
+
+
+# [Project 2: Twitter Sentiment Analysis: Project Overview](https://github.com/jarrod7800/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis/sentiment_models.ipynb)
 - Utilized object oriented programing and the Tweepy API to scrape recent tweets and other data related to 'Bitcoin'.
 - Manually analyze tweets for sentiment and assign a label (manually to reduce redundancy).
 - Perfomed data preprocessing to clean each tweet. 
@@ -10,7 +19,7 @@ This is my ongoing Data Science and Quant Portfolio!
 
 ![](images/roc_sentiment.png)
 
-# [Project 2: LSTM Stock Price Model vs Naive Model: Project Overview](https://github.com/jarrod7800/Stock-Projects/blob/master/Stock%20LSTM/Stock_Prediction_LSTM.ipynb)
+# [Project 3: LSTM Stock Price Model vs Naive Model: Project Overview](https://github.com/jarrod7800/Stock-Projects/blob/master/Stock%20LSTM/Stock_Prediction_LSTM.ipynb)
 - Explore stock price prediction possibilities and create model to try and beat naive forecast.
 - Three different financial APIs were utilized to access historic economic data, OHLC data, and economic indicators.
 - Engineered and preprocessed time series features into 3D sequential data for LSTM Input.
@@ -19,7 +28,7 @@ This is my ongoing Data Science and Quant Portfolio!
 
 ![](images/LSTM_model.png)
 
-# [Project 3: Stock Portfolio Simulator and Analyzer: Project Overview](https://github.com/jarrod7800/Stock-Projects/blob/master/Stock%20Portfolio/PortfolioCreation_andFinancialStatistics.ipynb)
+# [Project 4: Stock Portfolio Simulator and Analyzer: Project Overview](https://github.com/jarrod7800/Stock-Projects/blob/master/Stock%20Portfolio/PortfolioCreation_andFinancialStatistics.ipynb)
 - Use scraped stock data to create a small simulated portfolio of consumer goods companies.
 - Display weighted portfolio positions for each stock and track performance over time.
 - Calculate cumulative return and other statistics such as Sharpe and Sortino ratios for our portfolio.
@@ -27,3 +36,4 @@ This is my ongoing Data Science and Quant Portfolio!
 - Markowitz Efficient Frontier for portfolio coming soon!
 
 ![](images/portfolio.png)
+
