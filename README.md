@@ -2,10 +2,10 @@
  Hi! My name is Jarrod, and this is my ongoing Data Science and Quant Portfolio!
 
 # [Project 1: NBA Player Clustering: Project Overview](https://github.com/jarrod7800/NBA_Proj/blob/main/NBA_PLAYER_CLUSTERING.ipynb) 
-- Scraped Stats.NBA.com to aggregate data.
-- Utilize PCA to perfom dimension reduction. 
-- perform Hopkins test to verify clustering tendencies
-- used KMeans++ clustering algorithm to group players together.
+- Scraped Stats.NBA.com to grab 200+ columns of data, clean and aggregate the data.
+- Utilize PCA to perfom dimension reduction, and analyze results. 
+- Perform Hopkins test to verify clustering tendencies
+- Use KMeans++ clustering algorithm to group players together.
 - Analyze clusters to identify play styles/archetypes.
 
 ![](images/NBA_Player_Clusters.png)
