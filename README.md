@@ -8,7 +8,7 @@
 - Use KMeans++ clustering algorithm to group players together.
 - Analyze clusters to identify play styles/archetypes.
 
-![](images/NBA Players In Clusters.png)
+![](images/NBA_Players_In_Clusters.png)
 
 # [Project 2: Twitter Sentiment Analysis: Project Overview](https://github.com/jarrod7800/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis/sentiment_models.ipynb)
 - Utilized object oriented programing and the Tweepy API to scrape recent tweets and other data related to 'Bitcoin'.
