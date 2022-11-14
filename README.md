@@ -1,5 +1,5 @@
 # Jarrod-Mautz-Portfolio
-This is my ongoing Data Science and Quant Portfolio!
+ Hi! My name is Jarrod, and this is my ongoing Data Science and Quant Portfolio!
 
 # [Project 1: NBA Player Clustering: Project Overview](https://github.com/jarrod7800/NBA_Proj/blob/main/NBA_PLAYER_CLUSTERING.ipynb) 
 - Scraped Stats.NBA.com to aggregate data.
@@ -8,7 +8,7 @@ This is my ongoing Data Science and Quant Portfolio!
 - used KMeans++ clustering algorithm to group players together.
 - Analyze clusters to identify play styles/archetypes.
 
-
+![](NBA_Player_Clusters.png)
 
 # [Project 2: Twitter Sentiment Analysis: Project Overview](https://github.com/jarrod7800/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis/sentiment_models.ipynb)
 - Utilized object oriented programing and the Tweepy API to scrape recent tweets and other data related to 'Bitcoin'.
