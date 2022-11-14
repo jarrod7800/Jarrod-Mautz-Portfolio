@@ -1,7 +1,7 @@
 # Jarrod-Mautz-Portfolio
 This is my ongoing Data Science and Quant Portfolio!
 
-# [Project 1: NBA Player Clustering: Project Overview]() 
+# [Project 1: NBA Player Clustering: Project Overview](https://github.com/jarrod7800/NBA_Proj/blob/main/NBA_PLAYER_CLUSTERING.ipynb) 
 - Scraped Stats.NBA.com to aggregate data.
 - Utilize PCA to perfom dimension reduction. 
 - perform Hopkins test to verify clustering tendencies
