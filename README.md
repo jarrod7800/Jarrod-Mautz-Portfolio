@@ -7,7 +7,7 @@
 - Perform Hopkins test to verify clustering tendencies
 - Use KMeans++ clustering algorithm to group players together.
 - Analyze clusters to identify play styles/archetypes.
-
+- [Check out the Tableau Viz for this project!](https://public.tableau.com/views/NBAWorkbook_16705067747860/NBA2019-20SEASONANALYZER?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![](images/NBA_Players_In_Clusters.png)
 
 # [Project 2: Twitter Sentiment Analysis: Project Overview](https://github.com/jarrod7800/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis/sentiment_models.ipynb)
